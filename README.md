@@ -1,4 +1,4 @@
-[![Enes's GitHub Banner](./assets/GitHubHeader.png)]
+![Enes's GitHub Banner](./assets/GitHubHeader.png)
 
 Hey there 👋
 
